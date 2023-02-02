@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tino!!
-- 🌱 I love Python
+- 🌱 I love Python and Java
 - 📫 You can reach me on Twitter @misstyno_
 
 <!---
